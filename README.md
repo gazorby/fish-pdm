@@ -21,23 +21,23 @@ fisher install gazorby/fish-pdm
 
 | Abbreviation | Command                  |
 | ------------ | ------------------------ |
-| pdmin        | pdm init                 |
-| pdmi         | pdm install              |
-| pdmup        | pdm update               |
-| pdma         | pdm add                  |
-| pdmrm        | pdm remove               |
-| pdms         | pdm show                 |
-| pdmb         | pdm build                |
-| pdmp         | pdm publish              |
-| pdmc         | pdm config               |
-| pdmr         | pdm run                  |
-| pdml         | pdm lock                 |
-| pdmx         | pdm export               |
-| pdmv         | pdm venv                 |
-| pdmf         | pdm search               |
-| pdmls        | pdm lis                  |
-| pdmn         | pdm new                  |
-| pdmav        | eval (pdm venv activate) |
+| pdmin        | `pdm init`                 |
+| pdmi         | `pdm install`              |
+| pdmup        | `pdm update`               |
+| pdma         | `pdm add`                  |
+| pdmrm        | `pdm remove`               |
+| pdms         | `pdm show`                 |
+| pdmb         | `pdm build`                |
+| pdmp         | `pdm publish`              |
+| pdmc         | `pdm config`               |
+| pdmr         | `pdm run`                  |
+| pdml         | `pdm lock`                 |
+| pdmx         | `pdm export`               |
+| pdmv         | `pdm venv`                 |
+| pdmf         | `pdm search`               |
+| pdmls        | `pdm lis`                  |
+| pdmn         | `pdm new`                  |
+| pdmav        | `eval (pdm venv activate)` |
 
 ## 📝 License
 
