@@ -4,4 +4,3 @@ function _fish_pdm_abbr -d "Create fish_pdm abbreviations and aliases"
     abbr -a $name $body
     set -a __fish_pdm_abbreviations $name
 end
-

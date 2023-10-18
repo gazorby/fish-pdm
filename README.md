@@ -19,8 +19,8 @@ fisher install gazorby/fish-pdm
 
 ## 🔧 Usage
 
-| Abbreviation | Command                  |
-| ------------ | ------------------------ |
+| Abbreviation | Command                    |
+| ------------ | -------------------------- |
 | pdmin        | `pdm init`                 |
 | pdmi         | `pdm install`              |
 | pdmup        | `pdm update`               |
